@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elhabal</h1>
 <h3 align="center">A Software Developer From Egypt</h3>
 
-- 🌱 I’m currently learning **Node js**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abdulrahman-elhabal-682347285/**
 
